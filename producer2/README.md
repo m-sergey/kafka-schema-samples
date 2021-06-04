@@ -1,0 +1,1 @@
+curl -X POST -d "name=vik&age=33&home=Moscow&work=Ufa" http://localhost:9081/user/publish
